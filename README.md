@@ -11,7 +11,6 @@
 
 Interested in the intersection of finance and technology, I’m now pursuing a Seneca Polytechnic Honors Bachelor of Commerce in BTM. Having a background in Python and SQL, in my IB research project, I developed a strong foundation in investment methods using mathematical modeling.
 
-As a Best Buy Express Sales Consultant, I refine my technical sales and customer interactions skills, and through volunteer and tutoring experience, have also honed problem-solving, creativity, and organizational skills. Always looking to learn and innovate. Let’s connect and explore opportunities to collaborate!
 ---
 
 ## Education

@@ -84,8 +84,8 @@ Interested in the intersection of finance and technology, I’m now pursuing a S
 
 - **Email:** [juand.mayor10@gmail.com](mailto:juand.mayor10@gmail.com)
 - **Phone:** 437-979-2159
-- **LinkedIn:** [juan-mayor-nunez][https://www.linkedin.com/in/juan-mayor-nunez-4915312a1/)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn:** [juan-mayor-nunez](https://www.linkedin.com/in/juan-mayor-nunez-4915312a1/)
+- **GitHub:** [github.com/yourusername](https://github.com/JMayor10)
 
 ---
 

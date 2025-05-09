@@ -1,7 +1,6 @@
-# Portafolio
-# Juan Mayor
+# Juan David Mayor Nunez
 
-**Bachelor of Commerce – Business Technology Management**  
+**Aspiring Data Analyst | Business Technology Management Student**  
 **Seneca College, Toronto, Canada**  
 **Originally from Colombia**
 
@@ -9,15 +8,15 @@
 
 ## About Me
 
-Interested in the intersection of finance and technology, I’m now pursuing a Seneca Polytechnic Honors Bachelor of Commerce in BTM. Having a background in Python and SQL, in my IB research project, I developed a strong foundation in investment methods using mathematical modeling.
+I am a dedicated BTM student at Seneca College with a strong interest in the intersection of finance and technology. My academic background has equipped me with skills in data analysis, cloud computing, and business strategy. Proficient in Python and SQL, I have applied mathematical modeling techniques in investment analysis projects. I am eager to leverage my skills in data-driven environments to contribute to innovative solutions.
 
 ---
 
 ## Education
 
 **Seneca College**  
-*Bachelor of Commerce – Business Technology Management*  
-*Expected Graduation: [2027]*
+*Honors Bachelor of Commerce – Business Technology Management*  
+*Expected Graduation: April 2027*
 
 ---
 
@@ -27,52 +26,53 @@ Interested in the intersection of finance and technology, I’m now pursuing a S
 *Best Buy Express, North York, Canada*  
 *August 2024 – Present*
 
-- Delivered data-driven product recommendations by analyzing customer needs and feedback.
-- Maintained accurate sales records and participated in tracking store KPIs.
-- Collaborated with management and Bell representatives to implement new service plans.
-- Communicated key features of mobile and smart tech products to customers.
+- Delivered tailored product recommendations through customer data analysis.
+- Maintained accurate sales records and contributed to KPI tracking.
+- Collaborated with cross-functional teams to implement new service plans.
+- Simplified complex product information for diverse customer bases.
 
 **Physics and Math Tutor (Grades 9–12)**  
 *Gimnasio Vermont, Bogotá, Colombia*  
 *October 2022 – June 2023*
 
-- Simplified complex physics and math concepts to enhance student understanding.
-- Encouraged critical thinking and problem-solving strategies.
-- Contributed to improved student performance and academic success.
+- Deconstructed complex scientific concepts to enhance student comprehension.
+- Fostered critical thinking and problem-solving skills among students.
+- Contributed to measurable improvements in academic performance.
 
 **Event Staff Coordinator**  
 *Gimnasio Vermont, Bogotá, Colombia*  
 *September 2018 – June 2022*
 
-- Planned and executed various aspects of school events.
-- Managed registration processes and organized recreational activities.
-- Coordinated logistics and resources with internal departments and external vendors.
+- Orchestrated school events, managing logistics and cross-departmental coordination.
+- Oversaw registration processes and organized engaging activities.
+- Ensured seamless execution of events through meticulous planning.
 
 ---
+
 ## Projects
 
-**1. Sales Performance Dashboard with Power BI**
-*Objective:* Develop an interactive dashboard to analyze sales data, customer behavior, and inventory management for a retail store.
-*Tools:* Microsoft Power BI, Excel
-*Outcome:** Enhanced decision-making by providing real-time insights into sales trends and inventory levels.
+**1. Sales Performance Dashboard with Power BI**  
+*Objective:* Developed an interactive dashboard to analyze sales data, customer behavior, and inventory management for a retail store.  
+*Tools:* Microsoft Power BI, Excel  
+*Outcome:* Enhanced decision-making by providing real-time insights into sales trends and inventory levels.
 
 **2. Investment Portfolio Tracker**  
-*Objective:* Create a tool to monitor and analyze personal investment portfolios, including stocks, bonds, and mutual funds.  
+*Objective:* Created a tool to monitor and analyze personal investment portfolios, including stocks, bonds, and mutual funds.  
 *Tools:* Python, Pandas, Matplotlib  
 *Outcome:* Provided users with visualizations and performance metrics to make informed investment decisions.
 
-**3. Azure-Based E-commerce Web Application**
-*Objective:* Deploy a scalable e-commerce web application using Microsoft Azure services.
-*Tools:* Azure App Service, Azure SQL Database, Azure Blob Storage
+**3. Azure-Based E-commerce Web Application**  
+*Objective:* Deployed a scalable e-commerce web application using Microsoft Azure services.  
+*Tools:* Azure App Service, Azure SQL Database, Azure Blob Storage  
 *Outcome:* Demonstrated ability to utilize cloud services for hosting and managing web applications.
 
-**4. Chatbot Development with Azure Bot Service**
-*Objective:* Create a chatbot to handle customer inquiries and support using Azure Bot Service.
-*Tools:* Azure Bot Service, QnA Maker, Azure Functions
+**4. Chatbot Development with Azure Bot Service**  
+*Objective:* Created a chatbot to handle customer inquiries and support using Azure Bot Service.  
+*Tools:* Azure Bot Service, QnA Maker, Azure Functions  
 *Outcome:* Improved customer engagement through automated responses.
 
 **5. Data Privacy Compliance Audit**  
-*Objective:* Conduct an audit to ensure a company's data handling practices comply with relevant privacy laws and regulations.  
+*Objective:* Conducted an audit to ensure a company's data handling practices comply with relevant privacy laws and regulations.  
 *Tools:* Microsoft Excel, Compliance Checklists  
 *Outcome:* Identified compliance gaps and provided recommendations to mitigate risks.
 
@@ -80,20 +80,13 @@ Interested in the intersection of finance and technology, I’m now pursuing a S
 
 ---
 
-## Contact
-
-- **Email:** [juand.mayor10@gmail.com](mailto:juand.mayor10@gmail.com)
-- **Phone:** 437-979-2159
-- **LinkedIn:** [juan-mayor-nunez](https://www.linkedin.com/in/juan-mayor-nunez-4915312a1/)
-- **GitHub:** [github.com/yourusername](https://github.com/JMayor10)
-
----
-
 ## Skills & Tools
 
 - **Programming Languages:** Python, SQL
-- **Data Analysis:** Excel, Power BI
-- **Project Management:** Git, Jira
+- **Data Analysis & Visualization:** Excel, Power BI
+- **Cloud Computing:** Microsoft Azure (App Service, SQL Database, Blob Storage)
+- **Project Management & Collaboration:** Git, Jira
+- **Soft Skills:** Analytical thinking, effective communication, problem-solving, teamwork
 
 ---
 
@@ -106,4 +99,13 @@ Interested in the intersection of finance and technology, I’m now pursuing a S
 
 ---
 
-*Thank you for visiting my profile. Feel free to reach out for collaborations or opportunities.*
+## Contact
+
+- **Email:** [juand.mayor10@gmail.com](mailto:juand.mayor10@gmail.com)
+- **Phone:** 437-979-2159
+- **LinkedIn:** [linkedin.com/in/juan-mayor-nunez-4915312a1](https://www.linkedin.com/in/juan-mayor-nunez-4915312a1/)
+- **GitHub:** [github.com/JMayor10](https://github.com/JMayor10)
+
+---
+
+*Thank you for visiting my profile. I am open to collaborations and opportunities that align with my skills and interests.*

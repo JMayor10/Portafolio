@@ -55,6 +55,7 @@ I am a dedicated BTM student at Seneca College with a strong interest in the int
 *Objective:* Developed an interactive dashboard to analyze sales data, customer behavior, and inventory management for a retail store.  
 *Tools:* Microsoft Power BI, Excel  
 *Outcome:* Enhanced decision-making by providing real-time insights into sales trends and inventory levels.
+- 🛒 [Market Basket Analysis](https://github.com/JMayor10/Sano_Freco)
 
 **2. Investment Portfolio Tracker**  
 *Objective:* Created a tool to monitor and analyze personal investment portfolios, including stocks, bonds, and mutual funds.  
@@ -76,7 +77,7 @@ I am a dedicated BTM student at Seneca College with a strong interest in the int
 *Tools:* Microsoft Excel, Compliance Checklists  
 *Outcome:* Identified compliance gaps and provided recommendations to mitigate risks.
 
-*For a comprehensive list of my projects, please visit the [Projects](./projects) section.*
+*For a comprehensive list of my projects, please visit the [Projects](https://github.com/JMayor10/Projects-Portafolio) section.*
 
 ---
 

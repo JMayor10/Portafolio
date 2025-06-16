@@ -6,17 +6,17 @@ Currently, I work at **Specsavers** and have previously worked at **Best Buy Exp
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Bachelor of Commerce – Business Technology Management (Seneca Polytechnic, 2027)  
-- 📍 Based in Toronto, ON  
-- 🌐 Trilingual: Spanish (native), English (fluent), Mandarin (beginner)  
-- 🔎 Seeking internships or part-time opportunities in **data analysis**, **business intelligence**, or **finance analytics**  
-- 📈 Strong focus on KPIs, dashboards, market behavior, and compliance  
+- Bachelor of Commerce – Business Technology Management (Seneca Polytechnic, 2027)  
+-  Based in Toronto, ON  
+-  Trilingual: Spanish (native), English (fluent), Mandarin (beginner)  
+-  Seeking internships or part-time opportunities in **data analysis**, **business intelligence**, or **finance analytics**  
+-  Strong focus on KPIs, dashboards, market behavior, and compliance  
 
 ---
 
-## 🔧 Technical & Business Skills
+##  Technical & Business Skills
 
 - **Data Tools**: Power BI, Excel, Python (Pandas, Matplotlib), SQL  
 - **Cloud**: Microsoft Azure (App Service, SQL Database, Blob Storage, Bot Service)  
@@ -25,7 +25,7 @@ Currently, I work at **Specsavers** and have previously worked at **Best Buy Exp
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🟦 [Sales Performance Dashboard – Specsavers](./projects/sales-dashboard.md)  
 **Power BI | Excel | Retail KPIs**  
@@ -69,7 +69,7 @@ Assessed business compliance with data regulations. Delivered a gap report with 
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
 - ✉️ [juand.mayor10@gmail.com](mailto:juand.mayor10@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/juanmayor)  

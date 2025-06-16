@@ -1,5 +1,6 @@
 # Juan D. Mayor-Nunez – Business & Data Analyst Portfolio
 
+
 Welcome to my data and business analysis portfolio. I’m a Business Technology Management (BTM) student at Seneca Polytechnic with professional experience in sales strategy, customer analytics, and cloud tools. I’m passionate about turning data into business insights.
 
 Currently, I work at **Specsavers** and have previously worked at **Best Buy Express**, where I applied analytics to improve performance and sales outcomes. This portfolio showcases real-world projects using tools like **Power BI**, **Python**, **Azure**, and **Excel**.
@@ -72,7 +73,7 @@ Assessed business compliance with data regulations. Delivered a gap report with 
 ##  Let’s Connect
 
 - ✉️ [juand.mayor10@gmail.com](mailto:juand.mayor10@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/juanmayor)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/juan-mayor-nunez-4915312a1/)  
 - 🧠 [Seneca Projects & Case Studies (Coming Soon)](#)
 
 ---

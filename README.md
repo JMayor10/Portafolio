@@ -28,37 +28,37 @@ Currently, I work at **Specsavers** and have previously worked at **Best Buy Exp
 
 ##  Featured Projects
 
-### 🟦 [Sales Performance Dashboard – Sano y Fresco](https://github.com/JMayor10/Sano_Freco)  
+### 🟦 [Sales Performance Dashboard – Sano y Fresco](#)  
 **Power BI | Excel | Retail KPIs**  
 Visualized daily and monthly sales, team performance, and stock movement. Resulted in 70% faster decision-making and better inventory planning.
 
 ---
 
-### 🟨 [Investment Portfolio Tracker](./projects/portfolio-tracker.md)  
+### 🟨 [Investment Portfolio Tracker](#)  
 **Python | Pandas | Matplotlib**  
 Tracked and visualized performance of stocks, bonds, and mutual funds. Provided financial insights and historical return comparisons.
 
 ---
 
-### 🟩 [Market Basket Analysis](./projects/market-basket.md)  
+### 🟩 [Market Basket Analysis](https://github.com/JMayor10/Sano_Freco)  
 **Python | Association Rules**  
 Analyzed shopping behavior to identify commonly paired products. Potential applications in bundling, promotions, and upselling.
 
 ---
 
-### 🟧 [Azure E-commerce Web App](./projects/ecommerce.md)  
+### 🟧 [Azure E-commerce Web App](#)  
 **Azure App Services | SQL | Cloud Hosting**  
 Deployed a cloud-based storefront prototype with scalable backend infrastructure and secure data storage.
 
 ---
 
-### 🟪 [Chatbot with Azure Bot Service](./projects/chatbot.md)  
+### 🟪 [Chatbot with Azure Bot Service](#)  
 **Azure Bot | QnA Maker | Customer Service Automation**  
 Created a functional chatbot to handle product FAQs and customer queries, improving response speed and user experience.
 
 ---
 
-### 🟥 [Data Privacy Compliance Audit](./projects/privacy-audit.md)  
+### 🟥 [Data Privacy Compliance Audit](#)  
 **Excel | Audit Templates | Legal Frameworks**  
 Assessed business compliance with data regulations. Delivered a gap report with actionable recommendations to reduce privacy risks.
 

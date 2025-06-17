@@ -28,7 +28,7 @@ Currently, I work at **Specsavers** and have previously worked at **Best Buy Exp
 
 ##  Featured Projects
 
-### 🟦 [Sales Performance Dashboard – Sano y Fresco](#)  
+### 🟦 [Sales Performance Dashboard – ](#)  
 **Power BI | Excel | Retail KPIs**  
 Visualized daily and monthly sales, team performance, and stock movement. Resulted in 70% faster decision-making and better inventory planning.
 

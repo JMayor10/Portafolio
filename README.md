@@ -28,9 +28,9 @@ Currently, I work at **Specsavers** and have previously worked at **Best Buy Exp
 
 ##  Featured Projects
 
-### 🟦 [Sales Performance Dashboard – ](#)  
-**Power BI | Excel | Retail KPIs**  
-Visualized daily and monthly sales, team performance, and stock movement. Resulted in 70% faster decision-making and better inventory planning.
+### 🟩 [Market Basket Analysis](https://github.com/JMayor10/Sano_Freco)  
+**Python | Association Rules**  
+Analyzed shopping behavior to identify commonly paired products. Potential applications in bundling, promotions, and upselling.
 
 ---
 
@@ -40,9 +40,10 @@ Tracked and visualized performance of stocks, bonds, and mutual funds. Provided 
 
 ---
 
-### 🟩 [Market Basket Analysis](https://github.com/JMayor10/Sano_Freco)  
-**Python | Association Rules**  
-Analyzed shopping behavior to identify commonly paired products. Potential applications in bundling, promotions, and upselling.
+### 🟦 [Sales Performance Dashboard – ](#)  
+**Power BI | Excel | Retail KPIs**  
+Visualized daily and monthly sales, team performance, and stock movement. Resulted in 70% faster decision-making and better inventory planning.
+
 
 ---
 

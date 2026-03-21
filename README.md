@@ -23,6 +23,7 @@ I work at Specsavers now and used to work at Best Buy Express, where I used anal
 - **Cloud**: Microsoft Azure (App Service, SQL Database, Blob Storage, Bot Service)
 - **Business Analysis**: I track KPIs, analyze A/B tests, forecast inventory, and study churn. 
 - **Soft Skills**: I communicate with clients, work with different teams, and use agile workflows.
+  
 ---
 
 ##  Featured Projects

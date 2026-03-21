@@ -49,6 +49,7 @@ I created visuals for daily and monthly sales, team results, and stock movement.
 ### 🟧 [Azure E-commerce Web App](#)  
 **Azure App Services | SQL | Cloud Hosting**  
 I built and launched a cloud-based storefront prototype with a scalable backend and secure data storage.
+
 ---
 
 ### 🟪 [Chatbot with Azure Bot Service](#)  

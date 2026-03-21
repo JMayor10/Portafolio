@@ -1,67 +1,63 @@
 # Juan D. Mayor-Nunez – Business & Data Analyst Portfolio
 
 
-Welcome to my data and business analysis portfolio. I’m a Business Technology Management (BTM) student at Seneca Polytechnic with professional experience in sales strategy, customer analytics, and cloud tools. I’m passionate about turning data into business insights.
+Thank you for checking out my data and business analysis portfolio. I'm studying Business Technology Management at Seneca Polytechnic and have practical experience in sales strategy, customer analytics, and cloud tools. I like using data to uncover business insights.
 
-Currently, I work at **Specsavers** and have previously worked at **Best Buy Express**, where I applied analytics to improve performance and sales outcomes. This portfolio showcases real-world projects using tools like **Power BI**, **Python**, **Azure**, and **Excel**.
-
+I work at Specsavers now and used to work at Best Buy Express, where I used analytics to improve performance and sales. In this portfolio, you can see real-world projects using tools like Power BI, Python, Azure, and Excel.
 ---
 
 ## About Me
 
-- Bachelor of Commerce – Business Technology Management (Seneca Polytechnic, 2027)  
--  Based in Toronto, ON  
--  Trilingual: Spanish (native), English (fluent), Mandarin (beginner)  
--  Seeking internships or part-time opportunities in **data analysis**, **business intelligence**, or **finance analytics**  
--  Strong focus on KPIs, dashboards, market behavior, and compliance  
+- Bachelor of Commerce – Business Technology Management (Seneca Polytechnic, 2027)
+- Based in Toronto, ON
+- Trilingual: Spanish (native), English (fluent), Mandarin (beginner)
+- I'm looking for internships or part-time jobs in data analysis, business intelligence, or finance analytics.
+- I focus on KPIs, dashboards, market trends, and compliance in my work.
 
 ---
 
 ##  Technical & Business Skills
 
-- **Data Tools**: Power BI, Excel, Python (Pandas, Matplotlib), SQL  
-- **Cloud**: Microsoft Azure (App Service, SQL Database, Blob Storage, Bot Service)  
-- **Business Analysis**: KPI tracking, A/B testing insights, inventory forecasting, churn analysis  
-- **Soft Skills**: Client communication, cross-functional collaboration, agile workflows  
-
+- **Data Tools**: Power BI, Excel, Python (Pandas, Matplotlib), SQL
+- **Cloud**: Microsoft Azure (App Service, SQL Database, Blob Storage, Bot Service)
+- **Business Analysis**: I track KPIs, analyze A/B tests, forecast inventory, and study churn. 
+- **Soft Skills**: I communicate with clients, work with different teams, and use agile workflows.
 ---
 
 ##  Featured Projects
 
 ### 🟩 [Market Basket Analysis](https://github.com/JMayor10/Sano_Freco)  
 **Python | Association Rules**  
-Analyzed shopping behavior to identify commonly paired products. Potential applications in bundling, promotions, and upselling.
+I analyzed shopping habits to find products that people often buy together. This helps with bundling, promotions, and upselling.
 
 ---
 
 ### 🟨 [Investment Portfolio Tracker](#)  
 **Python | Pandas | Matplotlib**  
-Tracked and visualized performance of stocks, bonds, and mutual funds. Provided financial insights and historical return comparisons.
+I tracked and visualized the performance of stocks, bonds, and mutual funds. I also shared financial insights and compared past returns.
 
 ---
 
 ### 🟦 [Sales Performance Dashboard – ](#)  
 **Power BI | Excel | Retail KPIs**  
-Visualized daily and monthly sales, team performance, and stock movement. Resulted in 70% faster decision-making and better inventory planning.
-
+I created visuals for daily and monthly sales, team results, and stock movement. This made decisions 70% faster and improved inventory planning.
 
 ---
 
 ### 🟧 [Azure E-commerce Web App](#)  
 **Azure App Services | SQL | Cloud Hosting**  
-Deployed a cloud-based storefront prototype with scalable backend infrastructure and secure data storage.
-
+I built and launched a cloud-based storefront prototype with a scalable backend and secure data storage.
 ---
 
 ### 🟪 [Chatbot with Azure Bot Service](#)  
 **Azure Bot | QnA Maker | Customer Service Automation**  
-Created a functional chatbot to handle product FAQs and customer queries, improving response speed and user experience.
+I created a chatbot that answers product FAQs and customer questions. This sped up response times and improved the user experience.
 
 ---
 
 ### 🟥 [Data Privacy Compliance Audit](#)  
 **Excel | Audit Templates | Legal Frameworks**  
-Assessed business compliance with data regulations. Delivered a gap report with actionable recommendations to reduce privacy risks.
+I checked if the business followed data regulations and wrote a report with steps to reduce privacy risks.
 
 ---
 

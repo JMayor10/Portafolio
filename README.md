@@ -4,6 +4,7 @@
 Thank you for checking out my data and business analysis portfolio. I'm studying Business Technology Management at Seneca Polytechnic and have practical experience in sales strategy, customer analytics, and cloud tools. I like using data to uncover business insights.
 
 I work at Specsavers now and used to work at Best Buy Express, where I used analytics to improve performance and sales. In this portfolio, you can see real-world projects using tools like Power BI, Python, Azure, and Excel.
+
 ---
 
 ## About Me

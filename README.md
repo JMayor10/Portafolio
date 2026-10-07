@@ -1,89 +1,118 @@
-# Juan D. Mayor-Nunez – Business & Data Analyst Portfolio
+# 📈 Investment Portfolio Tracker
 
+Track, visualize, and compare the performance of **stocks, bonds, and mutual funds** with Python, Pandas, and Matplotlib. Feed it a simple CSV of holdings and it produces charts, risk metrics, benchmark comparisons, and plain-English insights.
 
-Thank you for checking out my data and business analysis portfolio. I'm studying Business Technology Management at Seneca Polytechnic and have practical experience in sales strategy, customer analytics, and cloud tools. I like using data to uncover business insights.
+![tests](https://github.com/<your-username>/portfolio-tracker/actions/workflows/tests.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
-I work at Specsavers now and used to work at Best Buy Express, where I used analytics to improve performance and sales. In this portfolio, you can see real-world projects using tools like Power BI, Python, Azure, and Excel.
+<!-- After your first run, copy the PNGs from output/ into docs/images/ -->
+<p align="center">
+  <img src="docs/images/performance.png" width="48%" alt="Portfolio vs benchmark">
+  <img src="docs/images/allocation_vs_risk.png" width="48%" alt="Allocation vs risk by asset class">
+</p>
 
----
+## What it does
 
-## About Me
+- **Asset-class tracking:** stocks, funds (mutual funds/ETFs), and bonds (use bond ETFs like `BND` or `AGG`, or any mutual fund ticker Yahoo Finance supports)
+- **Benchmark comparison:** portfolio vs. a benchmark (default `SPY`), rebased to 100
+- **Trailing returns:** 1M / 6M / 1Y / 5Y for the portfolio, the benchmark, and each asset class
+- **Risk metrics:** annualized volatility, max drawdown (with date), Sharpe ratio, CAGR
+- **Allocation vs. risk:** how much of the portfolio each asset class is vs. how much of the risk it drives
+- **Auto-generated insights:** plain-English findings saved to `output/summary.md`
 
-- Bachelor of Commerce – Business Technology Management (Seneca Polytechnic, 2027)
-- Based in Toronto, ON
-- Trilingual: Spanish (native), English (fluent), Mandarin (beginner)
-- I'm looking for internships or part-time jobs in data analysis, business intelligence, or finance analytics.
-- I focus on KPIs, dashboards, market trends, and compliance in my work.
+## Quick start
 
----
+```bash
+git clone https://github.com/<your-username>/portfolio-tracker.git
+cd portfolio-tracker
 
-##  Technical & Business Skills
+python -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
 
-- **Data Tools**: Power BI, Excel, Python (Pandas, Matplotlib), SQL
-- **Cloud**: Microsoft Azure (App Service, SQL Database, Blob Storage, Bot Service)
-- **Business Analysis**: I track KPIs, analyze A/B tests, forecast inventory, and study churn. 
-- **Soft Skills**: I communicate with clients, work with different teams, and use agile workflows.
-  
----
+python main.py
+```
 
-##  Featured Projects
+Results are written to `output/`: `performance.png`, `allocation_vs_risk.png`, `drawdown.png`, and `summary.md`.
 
-### 🟩 [Market Basket Analysis](https://github.com/JMayor10/Sano_Freco)  
-**Python | Association Rules**  
-I analyzed shopping habits to find products that people often buy together. This helps with bundling, promotions, and upselling.
+### Options
 
----
+```bash
+python main.py --input data/my_portfolio.csv --period 2y --benchmark QQQ --risk-free 0.04
+```
 
-### 🟨 [Investment Portfolio Tracker](https://github.com/JMayor10/InvestTracker-1)  
-**Python | Pandas | Matplotlib**  
-I tracked and visualized the performance of stocks, bonds, and mutual funds. I also shared financial insights and compared past returns.
+| Flag | Default | Description |
+|------|---------|-------------|
+| `--input` | `data/sample_portfolio.csv` | Holdings CSV |
+| `--period` | `5y` | History to analyze: `1y`, `2y`, `5y`, `10y`, `max` |
+| `--benchmark` | `SPY` | Benchmark ticker |
+| `--risk-free` | `0.0` | Annual risk-free rate used for Sharpe (e.g. `0.04`) |
+| `--output-dir` | `output` | Where results are saved |
 
----
+## Input format
 
-### 🟦 [Sales Performance Dashboard – ](#)  
-**Power BI | Excel | Retail KPIs**  
-I created visuals for daily and monthly sales, team results, and stock movement. This made decisions 70% faster and improved inventory planning.
+```csv
+ticker,asset_class,shares
+AAPL,stock,40
+FXAIX,fund,50
+BND,bond,120
+```
 
----
+`asset_class` must be `stock`, `fund`, or `bond`. Repeated tickers are combined. See [`data/sample_portfolio.csv`](data/sample_portfolio.csv).
 
-### 🟧 [Azure E-commerce Web App](#)  
-**Azure App Services | SQL | Cloud Hosting**  
-I built and launched a cloud-based storefront prototype with a scalable backend and secure data storage.
+## ⚠️ Important: this is a "what-if" analysis
 
----
+The tool assumes **today's share counts were held for the entire period**. It answers "how would this exact portfolio have performed?", not "what did I actually earn?". Real performance needs purchase dates and transactions (see the roadmap).
 
-### 🟪 [Chatbot with Azure Bot Service](#)  
-**Azure Bot | QnA Maker | Customer Service Automation**  
-I created a chatbot that answers product FAQs and customer questions. This sped up response times and improved the user experience.
+## How metrics are calculated
 
----
+| Metric | Method |
+|--------|--------|
+| Total return | `end value / start value − 1` |
+| CAGR | `(1 + total return)^(1 / years) − 1` |
+| Annualized volatility | `std(daily returns) × √252` |
+| Sharpe ratio | `(mean daily return × 252 − risk-free) / annualized volatility` |
+| Max drawdown | Largest peak-to-trough decline of portfolio value |
+| Share of risk | Each asset class's covariance with portfolio return ÷ portfolio variance (shares sum to 100%) |
 
-### 🟥 [Data Privacy Compliance Audit](#)  
-**Excel | Audit Templates | Legal Frameworks**  
-I checked if the business followed data regulations and wrote a report with steps to reduce privacy risks.
+Prices are split- and dividend-adjusted closes from Yahoo Finance via `yfinance`. If one holding has a shorter history, the whole analysis is trimmed to the overlapping dates and a warning is printed.
 
----
+## Project structure
 
-## 📄 Resume
+```
+portfolio-tracker/
+├── main.py                  # CLI entry point
+├── src/
+│   ├── ingest.py            # CSV loading + validation
+│   ├── prices.py            # yfinance price fetching
+│   ├── metrics.py           # returns, volatility, drawdown, Sharpe, risk shares
+│   ├── charts.py            # Matplotlib charts
+│   └── report.py            # insights + Markdown report
+├── data/sample_portfolio.csv
+├── tests/                   # pytest (no network needed)
+└── .github/workflows/tests.yml
+```
 
- [Download My Resume (PDF)](./resume.pdf)
+## Tests
 
----
+```bash
+pytest
+```
 
-##  Let’s Connect
+Tests cover the metric math, CSV validation, and a full end-to-end run on synthetic prices, so they work offline and in CI.
 
-- ✉️ [juand.mayor10@gmail.com](mailto:juand.mayor10@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/juan-mayor-nunez-4915312a1/)  
-- 🧠 [Seneca Projects & Case Studies (Coming Soon)](#)
+## Roadmap
 
----
+- [ ] Ghostfolio integration: pull holdings and transactions from a self-hosted instance (it's a companion tool, not a plugin that runs inside Ghostfolio)
+- [ ] Real performance using purchase dates and prices (money-weighted return / XIRR)
+- [ ] Dividend and contribution tracking
+- [ ] Correlation heatmap and Monte Carlo projection
+- [ ] PDF export of the report
 
-## 🧠 Keywords (for Recruiters & ATS)
+## Disclaimer
 
-**Business Analyst**, **Data Analyst**, **Power BI**, **Python**, **Excel**, **SQL**, **Azure**,  
-**Retail Analytics**, **Sales Dashboards**, **Investment Tracking**, **Market Basket Analysis**,  
-**Customer Insights**, **Inventory Forecasting**, **Cloud App Development**, **Compliance Audit**,  
-**Business Technology Management**, **Seneca College**, **Multilingual**, **Entry-Level Analyst**
+For educational purposes only. Not financial advice. Past performance does not guarantee future results, and third-party market data may be delayed or inaccurate.
 
----
+## License
 
+MIT. Add a `LICENSE` file before publishing.

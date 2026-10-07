@@ -9,7 +9,7 @@
 
 ## 📋 Recruiter Quick View
 
-*   🎓 **Status:** Honours Bachelor of Commerce student, Business Technology Management, Seneca Polytechnic (Expected April 2027) | **GPA: 3.7**
+*   🎓 **Status:** Honours Bachelor of Commerce student, Business Technology Management, Seneca Polytechnic (Expected April 2027) **GPA: 3.7**
 *   🎯 **Looking for:** Internships, part-time, and early-career roles in data analysis, business intelligence, or finance analytics.
 *   📍 **Location:** Toronto, Ontario
 *   🏆 **Best Proof of Impact:** A **$9,000/month** revenue opportunity identified and presented to senior management during my Specsavers work term.
@@ -64,21 +64,6 @@
 ### 🟥 [Data Privacy Compliance Audit](#)
 *   **Tools:** Excel, Audit Templates, Legal Frameworks
 *   **Overview:** Conducted an extensive review of business operations against data regulations, delivering a finalized report with actionable steps to reduce privacy risk.
-
----
-
-## 💼 Experience & Education
-
-**Business Analyst, Retail Operations (Co-op)** | *Specsavers (May 2026 – Sep 2026)*
-> Led the analysis behind a major revenue optimization project and presented the business case directly to senior management.
-
-**Eye Care Consultant** | *Specsavers (May 2025 – Present)*
-> Advise customers on clinical options, maintaining data accuracy across internal systems in a highly regulated healthcare environment.
-
-**Sales Associate** | *Best Buy Express (Aug 2024 – Jun 2025)*
-> Leveraged product knowledge and customer flow analytics to improve sales performance during peak retail hours.
-
-🎓 **Postgraduate Certification, Applied AI and Process Optimization** | *UTAMED (Apr 2026 – Oct 2026)*
 
 ---
 

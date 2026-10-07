@@ -34,7 +34,7 @@ I analyzed shopping habits to find products that people often buy together. This
 
 ---
 
-### 🟨 [Investment Portfolio Tracker](#)  
+### 🟨 [Investment Portfolio Tracker](https://github.com/JMayor10/InvestTracker-1)  
 **Python | Pandas | Matplotlib**  
 I tracked and visualized the performance of stocks, bonds, and mutual funds. I also shared financial insights and compared past returns.
 

@@ -89,8 +89,3 @@ I am currently seeking new opportunities and would welcome a conversation about 
 *   ✉️ **[juand.mayor10@gmail.com](mailto:juand.mayor10@gmail.com)**
 *   🔗 **[LinkedIn Profile](https://www.linkedin.com/in/juan-mayor-nunez-4915312a1/)**
 *   🧠 **Seneca Projects & Case Studies** *(Coming Soon)*
-
----
-
-## 🧠 Keywords (for Recruiters & ATS)
-`Business Analyst` `Data Analyst` `Power BI` `Python` `Excel` `SQL` `Azure` `Retail Analytics` `Sales Dashboards` `Investment Tracking` `Market Basket Analysis` `Customer Insights` `Inventory Forecasting` `Cloud App Development` `Compliance Audit` `Business Technology Management` `Seneca Polytechnic` `Multilingual` `Entry-Level Analyst` `Data Pipelines` `n8n` `Docker`

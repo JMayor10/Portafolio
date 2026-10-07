@@ -9,7 +9,7 @@
 
 ## 📋 Recruiter Quick View
 
-*   🎓 **Status:** Honours Bachelor of Commerce student, Business Technology Management, Seneca Polytechnic (Expected April 2027) **GPA: 3.7**
+*   🎓 **Status:** Honours Bachelor of Commerce student, Business Technology Management, Seneca Polytechnic (Expected April 2027) | **GPA: 3.7**
 *   🎯 **Looking for:** Internships, part-time, and early-career roles in data analysis, business intelligence, or finance analytics.
 *   📍 **Location:** Toronto, Ontario
 *   🏆 **Best Proof of Impact:** A **$9,000/month** revenue opportunity identified and presented to senior management during my Specsavers work term.

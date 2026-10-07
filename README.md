@@ -1,104 +1,96 @@
 # Juan David Mayor-Nunez
+### Business Technology & Data Analyst Portfolio
 
-### Business Technology and Data Analyst
+> 💡 **I find the revenue hiding in everyday operational data, then build the process that goes after it.** I also build my own AI automation and cloud projects, seamlessly bridging the gap between the business side and the technical side.
 
-I find the revenue hiding in everyday operational data, then build the process that goes after it. I also build my own AI automation and cloud projects, so I can talk to the business side and the technical side.
+🔗 **[Resume (PDF)](./resume.pdf)** | 📧 **[Email](mailto:juand.mayor10@gmail.com)** | 💼 **[LinkedIn](https://www.linkedin.com/in/juan-mayor-nunez-4915312a1/)** | 🐙 **[GitHub](#)**
 
-[Resume (PDF)](./resume.pdf) | [Email](mailto:juand.mayor10@gmail.com) | [LinkedIn](https://www.linkedin.com/in/juan-mayor-nunez-4915312a1/) | [GitHub](https://github.com/JMayor10)
+---
 
-## Recruiter Quick View
+## 📋 Recruiter Quick View
 
-* **Status:** Honours Bachelor of Commerce student, Business Technology Management, Seneca Polytechnic. GPA 3.7. Graduating April 2027.
-* **Looking for:** graduate and early career roles in business technology, analytics and enterprise solutions. Open to internships and part time work.
-* **Location:** Toronto, Ontario
-* **Best proof of impact:** a $9,000 per month revenue opportunity identified and presented to senior management during my Specsavers work term
-* **Core tools:** SQL, Power BI, Excel, Python, Azure, Docker, n8n
-* **Languages:** Spanish (native), English (fluent), French (conversational), Mandarin (beginner)
+*   🎓 **Status:** Honours Bachelor of Commerce student, Business Technology Management, Seneca Polytechnic (Expected April 2027) | **GPA: 3.7**
+*   🎯 **Looking for:** Internships, part-time, and early-career roles in data analysis, business intelligence, or finance analytics.
+*   📍 **Location:** Toronto, Ontario
+*   🏆 **Best Proof of Impact:** A **$9,000/month** revenue opportunity identified and presented to senior management during my Specsavers work term.
+*   🌐 **Languages:** Spanish (Native), English (Fluent), French (Conversational), Mandarin (Beginner)
 
-## Results So Far
+---
 
-**40 to 60%** drop in lens treatment recommendations uncovered by auditing a customer handover process
+## 📈 Results So Far & What I Bring
 
-**$9,000 per month** revenue opportunity sized from raw transaction data and presented to senior management
+*   🔍 **I turn data into recommendations:** I start with raw transactions, find the gap, size it in dollars, and explain it so leadership can act on it the next day. 
+*   📉 **Measurable Impact:** Uncovered a **40–60% drop** in lens treatment recommendations by auditing a customer handover process, sizing a **$9,000/month** revenue opportunity with a **$0 cost** fix.
+*   🤝 **Cross-Functional Communication:** I work with customers, clinicians, store leadership, and senior management, effortlessly adjusting the message for each audience and utilizing agile workflows.
+*   🏗️ **I build, not just analyze:** I run my own server where I deploy dashboards, data pipelines, and AI workflows end-to-end.
 
-**$0 cost** to implement the standardized process I designed to fix it
+---
 
-## What I Bring
+## 🛠️ Technical & Business Skills
 
-* **I turn data into recommendations.** I start with the transactions, find the gap, size it in dollars, and explain it so a store manager can act on it the next day.
-* **I communicate across teams.** I have worked with customers, clinicians, store leadership and senior management, and I adjust the message to each.
-* **I build, not just analyze.** I run my own server where I deploy dashboards, data pipelines and AI workflows end to end.
-* **I learn fast.** I am completing a postgraduate certification in applied AI alongside my degree and a full work schedule.
+*   📊 **Data & BI:** Power BI, Excel, SQL, Python (Pandas, Matplotlib)
+*   ☁️ **Cloud & AI:** Microsoft Azure (App Service, SQL Database, Blob Storage, Bot Service), Docker, n8n, Gemini, PostgreSQL
+*   📈 **Business Analysis:** KPI Tracking, A/B Testing, Revenue Modeling, Inventory Forecasting, Churn Analysis, Compliance Support
 
-## Featured Projects
+---
 
-### Retail Revenue Optimization (Specsavers work term)
+## 🚀 Featured Projects
 
-**Skills shown:** data analysis, revenue modeling, dashboards, stakeholder presentations
+### 👓 Retail Revenue Optimization *(Specsavers Work Term)*
+*   **Skills:** Data Analysis, Revenue Modeling, Dashboards, Stakeholder Presentations
+*   **What I Did:** Audited the patient handover process against transaction data and built a revenue model using a $60/pair baseline to set benchmarks. Partnered with store leadership on a standardized, zero-cost recommendation process.
+*   **The Result:** A **$9,000/month opportunity** and a business case presented to senior management, supported by tracking dashboards.
 
-**The problem:** Lens treatment recommendations were falling short, and no one knew where or how much revenue it cost.
+### 🤖 AI Outbound Sales Pipeline
+*   **Tools:** n8n, Gemini, PostgreSQL, Browserless, Docker
+*   **Overview:** A workflow hosted on my own server that automates lead research and enrichment for outbound outreach, drastically reducing manual prospecting time.
 
-**What I did:** I audited the patient handover process against transaction data, found a 40 to 60% drop in recommendations, and built a revenue model using a $60 per pair baseline to set daily, weekly and monthly benchmarks. I partnered with store leadership on a standardized recommendation process that cost nothing to run, and built dashboards so managers could track progress toward goals.
+### 🟨 [Investment Projection & Tracker Dashboard](https://github.com/JMayor10/InvestTracker-1)
+*   **Tools:** Python, Pandas, Matplotlib, Power BI, Ghostfolio, Monte Carlo Simulation
+*   **Overview:** A data pipeline that pulls portfolio data from Ghostfolio, tracks stock/bond performance, runs Monte Carlo projections of possible outcomes, and presents financial insights cleanly to non-technical readers.
 
-**The result:** a $9,000 per month opportunity, a zero cost fix and a business case presented to senior management.
+### 🟩 [Market Basket Analysis](https://github.com/JMayor10/Sano_Freco)
+*   **Tools:** Python, Association Rules
+*   **Overview:** Analyzed retail shopping habits to find products customers frequently buy together, generating data-driven recommendations for bundling, promotions, and upselling.
 
-### AI Outbound Sales Pipeline
+### 🟦 [Sales Performance Dashboard](#)
+*   **Tools:** Power BI, Excel, Retail KPIs
+*   **Overview:** Created interactive visuals for daily and monthly sales, team results, and stock movement. This streamlined reporting, making business decisions **70% faster** and improving inventory planning.
 
-**Tools:** n8n, Gemini, PostgreSQL, Browserless, Docker
+### 🟧 [Azure E-commerce Web App](#) & 🟪 [Customer Service Chatbot](#)
+*   **Tools:** Azure App Services, SQL, Azure Bot Service, QnA Maker
+*   **Overview:** Built and launched a cloud-based storefront prototype with a scalable backend and secure data storage. Integrated an automated chatbot to answer product FAQs, speeding up response times and enhancing user experience.
 
-**Skills shown:** automation, AI workflows, databases, deployment
+### 🟥 [Data Privacy Compliance Audit](#)
+*   **Tools:** Excel, Audit Templates, Legal Frameworks
+*   **Overview:** Conducted an extensive review of business operations against data regulations, delivering a finalized report with actionable steps to reduce privacy risk.
 
-A workflow hosted on my own server that automates lead research and enrichment for outbound outreach.
+---
 
-### Investment Projection Dashboard
+## 💼 Experience & Education
 
-**Tools:** Ghostfolio, Monte Carlo simulation, Power BI
+**Business Analyst, Retail Operations (Co-op)** | *Specsavers (May 2026 – Sep 2026)*
+> Led the analysis behind a major revenue optimization project and presented the business case directly to senior management.
 
-**Skills shown:** data pipelines, forecasting, dashboard design for nontechnical readers
+**Eye Care Consultant** | *Specsavers (May 2025 – Present)*
+> Advise customers on clinical options, maintaining data accuracy across internal systems in a highly regulated healthcare environment.
 
-A pipeline that pulls portfolio data from Ghostfolio, runs Monte Carlo projections of possible outcomes and presents them in Power BI. [View the repository](https://github.com/JMayor10/Investment-Report)
+**Sales Associate** | *Best Buy Express (Aug 2024 – Jun 2025)*
+> Leveraged product knowledge and customer flow analytics to improve sales performance during peak retail hours.
 
-### Job Search Automation
+🎓 **Postgraduate Certification, Applied AI and Process Optimization** | *UTAMED (Apr 2026 – Oct 2026)*
 
-**Tools:** n8n
+---
 
-**Skills shown:** workflow automation, process thinking
+## 📫 Let's Connect
 
-A workflow that automates the search for entry level roles in the Greater Toronto Area and remote Canada, so my time goes to applications instead of browsing listings.
+I am currently seeking new opportunities and would welcome a conversation about how I can help your team grow. 
 
-## Experience
+*   ✉️ **[juand.mayor10@gmail.com](mailto:juand.mayor10@gmail.com)**
+*   🔗 **[LinkedIn Profile](https://www.linkedin.com/in/juan-mayor-nunez-4915312a1/)**
+*   🧠 **Seneca Projects & Case Studies** *(Coming Soon)*
 
-**Business Analyst, Retail Operations, Specsavers** (May 2026 to Sep 2026, cooperative education work term)
-Led the analysis behind a revenue optimization project and presented the business case to senior management.
+---
 
-**Eye Care Consultant, Specsavers** (May 2025 to present)
-Advise customers on clinical and product options and keep information accurate across customer, clinical and internal systems in a regulated healthcare environment.
-
-**Sales Associate, Best Buy** (Aug 2024 to Jun 2025)
-Assessed customer needs across electronics and telecom and worked with supervisors to improve customer flow at peak hours.
-
-## Education
-
-**Honours Bachelor of Commerce, Business Technology Management**, Seneca Polytechnic. Expected April 2027, GPA 3.7.
-
-**Postgraduate Certification, Applied AI and Process Optimization**, UTAMED, 30 ECTS. April 2026 to October 2026.
-
-## Skills
-
-* **Data and BI:** Power BI, Excel, SQL, Python (Pandas, Matplotlib)
-* **Cloud and AI:** Microsoft Azure (App Service, SQL Database, Blob Storage, Bot Service), Docker, n8n, Gemini, PostgreSQL
-* **Business analysis:** KPI tracking, revenue modeling, performance gap analysis, process improvement, compliance support
-* **Working style:** I communicate with clients, work across different teams and use agile workflows
-
-## More Projects
-
-* [Market Basket Analysis](https://github.com/JMayor10/Sano_Freco): Python and association rules to find products customers often buy together, supporting bundling, promotions and upselling.
-* [Investment Portfolio Tracker](https://github.com/JMayor10/InvestTracker-1): Python, Pandas and Matplotlib to track and visualize stocks, bonds and mutual funds.
-* Sales Performance Dashboard: Power BI and Excel visuals for daily and monthly sales, team results and stock movement.
-* Azure Ecommerce Web App: a cloud storefront prototype on Azure App Service with a SQL backend and secure data storage.
-* Customer Service Chatbot: an Azure Bot Service chatbot that answers product questions and FAQs.
-* Data Privacy Compliance Audit: an Excel based review of a business against data regulations, with steps to reduce privacy risk.
-
-## Let's Talk
-
-I would welcome a conversation about how I can help your team. The fastest way to reach me is by email at [juand.mayor10@gmail.com](mailto:juand.mayor10@gmail.com), or you can find me on [LinkedIn](https://www.linkedin.com/in/juan-mayor-nunez-4915312a1/).
+## 🧠 Keywords (for Recruiters & ATS)
+`Business Analyst` `Data Analyst` `Power BI` `Python` `Excel` `SQL` `Azure` `Retail Analytics` `Sales Dashboards` `Investment Tracking` `Market Basket Analysis` `Customer Insights` `Inventory Forecasting` `Cloud App Development` `Compliance Audit` `Business Technology Management` `Seneca Polytechnic` `Multilingual` `Entry-Level Analyst` `Data Pipelines` `n8n` `Docker`

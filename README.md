@@ -1,9 +1,9 @@
 # Juan David Mayor-Nunez
 ### Business Technology & Data Analyst Portfolio
 
-> 💡 **I find the revenue hiding in everyday operational data, then build the process that goes after it.** I also build my own AI automation and cloud projects, seamlessly bridging the gap between the business side and the technical side.
+> 💡 I find the revenue hiding in everyday operational data, then build the process that goes after it. I also build my own AI automation and cloud projects, seamlessly bridging the gap between the business side and the technical side.
 
-🔗 **[Resume (PDF)](resume.pdf)** | 📧 **[Email](mailto:juand.mayor10@gmail.com)** | 💼 **[LinkedIn](https://www.linkedin.com/in/juan-mayor-nunez-4915312a1/)** | 🐙 **[GitHub](#)**
+🔗 **[Resume (PDF)](resume.pdf)** | 📧 **[Email](mailto:juand.mayor10@gmail.com)** | 💼 **[LinkedIn](https://www.linkedin.com/in/juan-mayor-nunez-4915312a1/)** | 🐙 **[GitHub](https://github.com/JMayor10/)**
 
 ---
 
